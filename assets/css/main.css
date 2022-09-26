@@ -3524,7 +3524,7 @@ input, select, textarea {
 
 	#sidebar {
 		padding: 2.5em 2.5em 0.5em 2.5em ;
-		background: #000000;
+		background: #fcfafa;
 		cursor: default;
 		height: 100vh;
 		left: 0;
@@ -3761,7 +3761,7 @@ input, select, textarea {
 			}
 
 			#sidebar nav a:before {
-				background: #3c2c62;
+				background: #fcfcfc;
 			}
 
 			#sidebar nav a:after {
@@ -3857,7 +3857,7 @@ input, select, textarea {
 
 						#sidebar nav a:after {
 							background-image: none;
-							background-color: #030002;
+							background-color: #fffeff;
 						}
 
 		}
@@ -3874,7 +3874,7 @@ input, select, textarea {
 
 	#intro {
 		background-attachment: fixed;
-		background-image: linear-gradient(black);
+		background-image: linear-gradient(rgb(13, 13, 13));
 		background-position: top right;
 		background-repeat: no-repeat;
 		background-size: 100% 100%;
