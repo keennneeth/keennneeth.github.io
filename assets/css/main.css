@@ -3761,7 +3761,7 @@ input, select, textarea {
 			}
 
 			#sidebar nav a:before {
-				background: #fcfbfb;
+				background: #060606;
 			}
 
 			#sidebar nav a:after {
@@ -3777,11 +3777,11 @@ input, select, textarea {
 			}
 
 			#sidebar nav a:hover {
-				color: rgba(0, 0, 0, 0.55);
+				color: rgba(243, 1, 1, 0.55);
 			}
 
 			#sidebar nav a.active {
-				color: #fcf5f5;
+				color: #fffdfd;
 			}
 
 				#sidebar nav a.active:after {
